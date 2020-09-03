@@ -1,0 +1,12 @@
+任务：在线考试管理系统 用户信息管理模块
+
+子任务：
+        用户信息注册
+        用户信息查询
+        用户信息删除
+        用户信息更新
+准备工作：
+        1.建表
+        2.在src下 com.entity.User 实体类
+        3.在src下 com.util.JdbcUtil 工具类
+        4.在web文件夹下创建lib文件夹 存放mysql提供的JDBC实现jar包
